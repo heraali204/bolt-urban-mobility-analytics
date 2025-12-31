@@ -1,0 +1,11 @@
+city_id,city_name,country,region,city_tier,population_band
+1,City_1,Country_A,Region_1,Tier 1,Large
+2,City_2,Country_A,Region_1,Tier 2,Large
+3,City_3,Country_A,Region_1,Tier 1,Large
+4,City_4,Country_A,Region_1,Tier 1,Large
+5,City_5,Country_A,Region_1,Tier 1,Small
+6,City_6,Country_A,Region_1,Tier 2,Large
+7,City_7,Country_A,Region_1,Tier 1,Medium
+8,City_8,Country_A,Region_1,Tier 1,Small
+9,City_9,Country_A,Region_1,Tier 1,Medium
+10,City_10,Country_A,Region_1,Tier 2,Medium
