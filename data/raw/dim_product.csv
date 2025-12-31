@@ -1,0 +1,4 @@
+product_id,product_type,vehicle_type,is_shared,avg_speed_kmh
+1,ride_hailing,Car,False,40
+2,scooter,Scooter,True,25
+3,ebike,Bike,True,20
